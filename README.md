@@ -30,3 +30,16 @@
 ![inspiration1](./images/inspiration1.png)
 
 - ### **Technical Details**  
+  -Reference
+
+  https://www.youtube.com/watch?v=QlpadcXok8U
+
+  https://editor.p5js.org/codingtrain/sketches/D4ty3DgZB
+
+  https://www.youtube.com/watch?v=yAyiQKNVtY8
+
+  https://www.bilibili.com/video/BV1rH4y1m7fb/?spm_id_from=333.337.search-card.all.clickvd_source=68ebe7b4dac4b16b61a7855377486938
+  
+  https://www.bilibili.com/video/BV1De411U7nu/?spm_id_from=333.337.search-card.all.click&vd_source=68ebe7b4dac4b16b61a7855377486938
+
+  https://download.csdn.net/download/weixin_42134054/19042282?ydreferer=aHR0cHM6Ly93d3cuYmFpZHUuY29tL2xpbms%2FdXJsPXBsemxodEN3a0EyTzhPa2NiamxWODl6b3BycHp3ZzBwNEdnMVZBTjBFN0dxb1d1Tms2MzRYUGIzeTRwMzNHakY2N2RuZDZ1czNWQW44cTdzckp0enNjUkxrbkkzZjlZak5mWTFLOWtqd2xfJndkPSZlcWlkPWY3MDkwZWU3MDAxOWRhMTMwMDAwMDAwNjY3MmRkNTU2
