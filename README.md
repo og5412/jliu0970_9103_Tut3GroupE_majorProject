@@ -13,6 +13,13 @@
   In this project, the process of generating each **circle and ring**, as well as the process of merging them into one **large circle**, will be animated. Except for the fact that the color and size of each circle will be different from the group's work, I remade most of the code so that the particle system can follow the pattern of **“Generate multiple circles of different colors - merge them into one big circle - big circle”. keep changing colors until it disappears”** loop to play the animation.
   
   So, I made small changes to the group code regarding the layout and color of the circle arrangement, but for the animation aspect and visual effects I made a lot of changes
+- ### **Group Members Animation Introduction**
+  **Jackie**：Dynamically change the radius size of the circles and the color of the dots based on the energy of the music.
+
+  **Mere**：Perlin noise is used to randomize the initial position of each circle, as well as randomize the size and the circle. Also randomly generated are the colors of the inner circles.
+
+  **Ann**：Circles and patterns switch positions on mouse click.
+
 - ### **Inspiration**
   
   This project was largely inspired by these two images, and as I mentioned in my Week8 assignment, I think the **particle system** is very applicable to this assignment project, although ultimately my choice was not an audio driver.
